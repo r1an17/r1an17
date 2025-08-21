@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Ryan!
+# 👋 Olá, me chamo Ryan!
 
-🎓 Cientista da Computação em formação  
-💻 Apaixonado por tecnologia, programação e soluções criativas  
-🚀 Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento  
+🎓 Cientista da Computação em formação;
+💻 Apaixonado por tecnologia, programação e soluções criativas;
+🚀 Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de desenvolvimento.
 
 ---
 
