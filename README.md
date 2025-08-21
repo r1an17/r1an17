@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Onde me encontrar
-- LinkedIn: [Ryan no LinkedIn](https://www.linkedin.com/in/ryan-r-22831b236)  
+- LinkedIn: **https://www.linkedin.com/in/ryan-r-22831b236**
 - E-mail: **ryan_romani@hotmail.com**  
 
 ✨ Obrigado por visitar meu perfil!
